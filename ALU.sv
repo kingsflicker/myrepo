@@ -18,7 +18,7 @@
 // Additional Comments:
 // 
 //////////////////////////////////////////////////////////////////////////////////
-// Version-1.1
+// Version-1.2
 module ALU (
     input logic [3:0] ALU_op,
     input logic [31:0] alu_data1,
